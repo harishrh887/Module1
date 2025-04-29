@@ -20,5 +20,7 @@ else:
 print("ODD")
 ---
 ## Output
+![WhatsApp Image 2025-04-29 at 14 11 50_5083b96c](https://github.com/user-attachments/assets/bc0d737b-dd0e-456f-a037-28e90cacd82d)
 
 ## Result
+Thus the program has been successfully executed
